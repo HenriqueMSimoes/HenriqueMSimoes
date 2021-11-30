@@ -61,7 +61,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
   <a href="https://www.linkedin.com/in/henrique-simoes/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
-  <a href="	https://medium.com/@HenriqueSimoes" target="_blank"><img
+  <a href="https://medium.com/@HenriqueSimoes" target="_blank"><img
       src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
       target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/187104/henrique-sim%c3%b5es" target="_blank"><img
