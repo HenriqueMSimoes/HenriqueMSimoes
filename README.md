@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/HMSimoes">
+  <a href="https://github.com/HenriqueMSimoes">
     <img height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=HMSimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=HenriqueMSimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMSimoes&layout=compact&langs_count=7&theme=tokyonight" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMSimoes&layout=compact&langs_count=7&theme=tokyonight" />
     <br>
     <br>
 </div>
@@ -70,5 +70,5 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 
 </div>
 
-![Snake animation](https://github.com/HMSimoes/HMSimoes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HenriqueMSimoes/HenriqueMSimoes/blob/output/github-contribution-grid-snake.svg)
 
