@@ -55,6 +55,11 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 ### 📕 Últimas postagens do blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuração do Visual Studio Code](https://medium.com/@HenriqueSimoes/configura%C3%A7%C3%A3o-do-visual-studio-code-29c29ddb3acf?source=rss-c12d7ac38cf1------2)
+- [Instalando e configurando Zsh e Oh My Zsh](https://medium.com/@HenriqueSimoes/instalando-e-configurando-zsh-e-oh-my-zsh-583fddfb51d2?source=rss-c12d7ac38cf1------2)
+- [Montando um ambiente de desenvolvimento JavaScript no Windows com WSL — parte 04](https://medium.com/@HenriqueSimoes/montando-um-ambiente-de-desenvolvimento-javascript-no-windows-com-wsl-parte-04-f5527246cecc?source=rss-c12d7ac38cf1------2)
+- [Montando um ambiente de desenvolvimento JavaScript no Windows com WSL — parte 03](https://medium.com/@HenriqueSimoes/montando-um-ambiente-de-desenvolvimento-javascript-no-windows-com-wsl-parte-03-d3fa5b0f4b02?source=rss-c12d7ac38cf1------2)
+- [Montando um ambiente de desenvolvimento JavaScript no Windows com WSL — parte 02](https://medium.com/@HenriqueSimoes/montando-um-ambiente-de-desenvolvimento-javascript-no-windows-com-wsl-parte-02-2c4cb91f4da2?source=rss-c12d7ac38cf1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Contatos:
