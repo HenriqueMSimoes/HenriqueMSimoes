@@ -52,6 +52,10 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
+## 📕 Últimas postagens do blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Contatos:
 <div>
