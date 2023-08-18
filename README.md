@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/HenriqueMSimoes">
     <img height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=HenriqueMSimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats-henriquemsimoes.vercel.app/api?username=HenriqueMSimoes&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMSimoes&layout=compact&langs_count=7&theme=tokyonight" />
+      src="https://github-readme-stats-henriquemsimoes.vercel.app/api/top-langs/?username=HenriqueMSimoes&layout=compact&langs_count=7&theme=tokyonight" />
     <br>
     <br>
 </div>
