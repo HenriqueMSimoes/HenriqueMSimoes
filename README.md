@@ -21,19 +21,6 @@ Here are some ideas to get you started:
 [TOTVS](https://www.totvs.com/blog/erp/sistema-protheus/)
 - 😄 Pronomes: Ele/Dele
 
-
-
-<div align="center">
-  <a href="https://github.com/HenriqueMSimoes">
-    <img height="160em"
-      src="https://github-readme-stats-henriquemsimoes.vercel.app/api?username=HenriqueMSimoes&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="160em"
-      src="https://github-readme-stats-henriquemsimoes.vercel.app/api/top-langs/?username=HenriqueMSimoes&layout=compact&langs_count=7&theme=tokyonight" />
-    <br>
-    <br>
-</div>
-
-
 ### 🛠 &nbsp;Ferramentas e Tecnologias:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
